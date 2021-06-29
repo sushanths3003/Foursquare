@@ -4,21 +4,20 @@
 
       "filename" : "Image.png",
 
- 00ee36c981005e7c239bec22b373a64257299ac9
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
 
       "filename" : "filter_icon@2x.png",
- 00ee36c981005e7c239bec22b373a64257299ac9
+
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
 
       "filename" : "filter_icon@3x.png",
- 00ee36c981005e7c239bec22b373a64257299ac9
+
       "idiom" : "universal",
       "scale" : "3x"
     }
